@@ -261,7 +261,7 @@ npm start
 # 👨‍💻 Team Members
 
 * Krishna Chandrakant Patil (TY DS – 52)
-* Borse Tejas Narendra (TY DS – 67)
+* Borse Tejas Narendra (TY DS – 55)
 * Kalpesh Rajendra Patil (TY DS – 31)
 
 ---
