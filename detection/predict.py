@@ -24,7 +24,7 @@ prediction = model.predict(img_array)
 
 # Output
 if prediction[0][0] > 0.5:
-    print("🚗 Parking Spot is OCCUPIED")
+    print("Parking Spot is OCCUPIED")
 else:
-    print("🅿 Parking Spot is EMPTY")
+    print("Parking Spot is EMPTY")
     
